@@ -1,13 +1,27 @@
-Screenshots : 
+# Expenses Tracker User Guide
 
-404 page if URL is not working : 
+## Description
+Our web application is an expense tracker, to easily manage you dispense and allow you to visualize, modify,add, delete transactions.
+
+## Key Features
+
+1. URL Not working :
+The screen will show a 404 page if the URL is not working : 
 ![image](https://github.com/user-attachments/assets/1e81703f-6338-44cf-b684-02df49d66522)
 
-Home page : (transactions here are transaction of 2 month ago only, all trnasactions in alltransaction page)
+2. Homepage:
+Displays recent transactions from the last two months (the rest is in alltransaction page).
+A blue border appears when hovering over a transaction.
+Provides quick access to transaction details.
+Home page : 
 ![image](https://github.com/user-attachments/assets/30d9a63c-8bee-4e47-b39d-37c7fa5e296c)
 
 Home page with blue border if we pass mouse on a transaction : 
 ![image](https://github.com/user-attachments/assets/4ac32587-8a7d-43eb-9661-fc132f11027e)
+
+3. Transaction details:
+Displays detailed information about a specific transaction.
+Includes options to edit or delete the transaction.
 
 Detail of a transaction : 
 ![image](https://github.com/user-attachments/assets/67af31c3-a26c-4f1d-89ed-9d6dcb680bec)
